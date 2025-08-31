@@ -37,7 +37,3 @@ i{
 span{
 color: var(--primarycolor);
 }
-.carousel-inner img{
-  height:700px;
- width:100%
-}
