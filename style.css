@@ -37,3 +37,17 @@ i{
 span{
 color: var(--primarycolor);
 }
+/* .carouselExampleIndicators{
+  max-height: 1000px;
+  width: 100px; ;
+} */
+.carousel-inner{
+  background-position: 50px;
+
+}
+
+
+
+
+
+
