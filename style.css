@@ -45,8 +45,11 @@ color: var(--primarycolor);
   background-position: 50px;
 
 }
-
-
+.carousel-caption
+{
+  bottom: 5rem;
+  left: 2rem;
+}
 
 
 
